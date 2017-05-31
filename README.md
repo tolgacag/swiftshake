@@ -5,3 +5,4 @@ You can show how to shake object/s with swift 3.0
 * Label
 * Button
 
+* ALL
